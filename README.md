@@ -2,7 +2,7 @@
 
 ## Bug management
 
-List of filter for a Jira wall that supports a structured bug management process that works without admin rights just by the use of labels.
+List of filters for a Jira wall that supports a structured bug management process that works without admin rights just by the use of labels.
 
 ### All Bugs
 (filter in ("All team Projects") OR assignee = "teamaccount@company.tld" OR assignee in membersOf("Auto-Domain - X")) AND type = bug
